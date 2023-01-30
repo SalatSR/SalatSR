@@ -39,6 +39,14 @@
 ### Моя статистика:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salatsr&theme=default)
 
+### Мои контакты:
+<a href="[linkedin-url](https://linkedin.com/in/stanislav-razborskii)">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="[headhunter](https://hh.ru/resume/89a24a44ff096f04dc0039ed1f305768654d31)">
+	<img src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" height=35 alt="HeadHunter"/>
+</a>
+
 ### Шутка дня:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue)
 <!--
